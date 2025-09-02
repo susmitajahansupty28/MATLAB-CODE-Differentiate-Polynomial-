@@ -1,4 +1,8 @@
 # MATLAB-CODE-Differentiate-Polynomial-
+
+
+
+
 function Differentiate_polynomial()
     % Let the function be f(x)=x^3-2*x+3 and let x=[0 1 2] then y=[3 2 7]
     % Input 
